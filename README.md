@@ -1,0 +1,1 @@
+# MLOps_Task_6_supervisely
