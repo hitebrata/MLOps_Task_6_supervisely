@@ -1,0 +1,1 @@
+bash <(curl -fsSLg "https://app.supervise.ly/api/agent/MzjNTxY0lzajuhUoP74e2G7nx46XRTCg?agentImage=supervisely/agent:latest")
